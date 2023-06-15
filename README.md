@@ -52,4 +52,4 @@
 
 未收到注册邮件，可能是发送拥堵或检查你的邮箱-垃圾箱
   
-[前端体验地址](https://chat.lanrenyun.com)
+[前端体验地址](https://chat.aiaipu.com)
